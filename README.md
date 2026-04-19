@@ -19,3 +19,7 @@ but to understand how it is built.
 - Crates
 
 It all started with some friction about how this whole thing is built, but now we're integrating learning Rust with learning GitHub... or Git as well.
+
+## 2026-04-19 00:39:21
+    Testing Git understanding
+    
